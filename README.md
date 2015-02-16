@@ -1,5 +1,5 @@
 #Puppet Module - Gearman
-This module manages the job server gearman.
+This module manages the job server Gearman.
 
 ##Dependencies
 

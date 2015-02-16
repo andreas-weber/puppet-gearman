@@ -1,11 +1,15 @@
 # == Class: aw_gearman
 #
-# This module manages the job server Gearman.
+# This module manages the job server gearman.
 #
 # === Parameters
 #
 # === Examples
-
+#
+#   include aw_gearman
+#
+#   class { 'aw_gearman': }
+#
 # === Authors
 #
 # Andreas Weber <code@andreas-weber.me>
