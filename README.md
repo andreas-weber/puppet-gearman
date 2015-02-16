@@ -1,13 +1,15 @@
 #Puppet Module - Gearman
-This module manages the job server Gearman.
+This module manages the job server gearman.
 
 ##Dependencies
 
-- https://github.com/andreas-weber/puppet-gearman
+no dependencies to other modules
 
 ## Puppetfile
 
-no dependencies to other modules
+```
+mod 'aw_gearman', :git => 'https://github.com/andreas-weber/puppet-gearman.git'
+```
 
 ## Usage
 
